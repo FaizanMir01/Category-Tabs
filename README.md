@@ -1,5 +1,5 @@
 # Demo
-<a href="https://faizanmir01.github.io/Category-Tabs/">Demo</a>
+<a href="https://faizanmir01.github.io/Category-Tabs/">Click here for demo</a>
 # Category-Tabs
 # Product Catalog
 
