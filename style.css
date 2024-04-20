@@ -1,4 +1,4 @@
-/* Reset and basic styling */
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 * {
   box-sizing: border-box;
@@ -25,7 +25,7 @@ body {
   text-align: center;
   margin-bottom: 20px;
 }
-
+/*Tab links container*/
 .navbar {
   display: flex;
   justify-content: center;
@@ -50,7 +50,7 @@ body {
   color: #fff;
 }
 
-
+/*procuts container*/
 .product-container {
   width: 100%;
   display: flex;
@@ -97,6 +97,8 @@ body {
   font-weight: bold;
 
 }
+
+
 .badge {
   position: absolute;
   border: 1px solid black;
